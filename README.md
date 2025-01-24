@@ -1,6 +1,6 @@
 # **Diabetes Predictor App**  
 🚀 *Predict the likelihood of diabetes with a simple, interactive web app powered by Machine Learning!*  
-
+streamlit:https://diabetes-sl.streamlit.app/
 ### **Overview**  
 This project is a Streamlit-based web application that predicts whether a person is likely to have diabetes based on key health metrics. The app uses a trained Random Forest model, scaled data inputs, and provides real-time predictions.  
 
